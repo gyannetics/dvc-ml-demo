@@ -5,7 +5,7 @@ This project was executed in multiple stages
 - Stage03 - Training the model
 - Stage04 - Evaluation of the model
 ## Reference repo:
-https://github.com/c17hawke/dvc-ML-demo-AIOps
+https://github.com/gyannetics/dvc-ml-demo/
 
 # STEPS:
 ## STEP 01: Create a empty remote repository
