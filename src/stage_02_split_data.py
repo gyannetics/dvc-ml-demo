@@ -47,3 +47,4 @@ if __name__ == '__main__':
     parsed_args = args.parse_args()
 
     split_and_save(config_path=parsed_args.config, params_path=parsed_args.params)
+
