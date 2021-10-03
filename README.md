@@ -16,7 +16,7 @@ https://github.com/gyannetics/dvc-ml-demo/
 * open and project folder in VS code then follow below command -
 
 ```bash
-echo "# dvc-ML-demo-AIOps" >> README.md
+echo "# dvc-ml-demo" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
