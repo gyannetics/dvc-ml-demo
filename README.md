@@ -1,4 +1,4 @@
-# Implement a Machine Learning solution using DVC
+# Implementation of Machine Learning solution using DVC
 This project was executed in multiple stages
 - Stage01 - Load file
 - Stage02 - split the file
