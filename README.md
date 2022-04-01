@@ -53,7 +53,7 @@ with open("README.md", "r", encoding="utf-8") as f:
 setup(
     name="src",
     version="0.0.1",
-    author="USER_NAME",
+    author="Surreal Gyan",
     description="A small package for dvc ml pipeline demo",
     long_description=long_description,
     long_description_content_type="text/markdown",
